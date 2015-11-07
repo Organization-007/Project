@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Aman on 05-11-2015.
- */
 public class NeuralNetwork {
 
     private int numInput;
